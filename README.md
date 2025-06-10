@@ -12,7 +12,7 @@ A web-based application (with a C-powered backend) to hide any type of file secu
 - Hide any file (text, image, PDF, etc.) inside 24-bit BMP images
 - Huffman compression for better storage efficiency
 - Accurate decoding and original file recovery without loss
-- Web interface built using Streamlit (optional)
+- Web interface built using Streamlit
 - Auto-detects and preserves original file format
 - No external C libraries – fully custom compression and steganography logic
 
